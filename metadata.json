@@ -1,0 +1,6 @@
+{
+  "name": "Dra. Janaína Traina - Pediatria",
+  "description": "Landing page moderna e acolhedora para Dra. Janaína Traina, médica Pediatra, Pneumopediatra e Intensivista Pediátrica em Sinop - MT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
