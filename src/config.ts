@@ -5,7 +5,7 @@ export const BRAND_CONFIG = {
   instagram: "https://www.instagram.com/janainatraina/", // Updated to the correct handle
   location: "Sinop - MT",
   whatsappMessage: "Olá, vim pelo site e gostaria de agendar uma consulta com a Dra. Janaína Traina",
-  gtagId: "AW-17130651921/CODIGO_CONVERSAO",
+  gtagId: "AW-17130651921/F_E7CLOGnLMcEJGCxOg_",
   heroPortrait: "/src/assets/images/janaina_portrait_1779398147059.png",
   aboutPhoto: "/src/assets/images/janaina_about_1779398163430.png",
 };
